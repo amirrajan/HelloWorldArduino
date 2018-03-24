@@ -1,0 +1,6 @@
+- Install Arduino IDE and ArduBoy, instructions here: https://arduboy.com/download-and-learn-arduino/ .
+- Make sure hello world for arduboy works from the IDE.
+- Install Python 2.7.
+- Install pip if needed: `python -m get_pip.py --user`.
+- Install the pyserial library: `python -m pip install pyserial --user`.
+- Set the `output_directory`, `cache_directory` in ./build.sh.
